@@ -51,3 +51,5 @@ chmod 777 /public/
 chmod 770 /admin/
 chmod 770 /sales/
 chmod 770 /atten/
+
+echo "END SCRIPT"
