@@ -28,7 +28,7 @@
 * The owner of all directories is the root user;  
 * All the users have full permission on the public directory;  
 * The users of each group have full permission inside their respective directory;  
-* The users don't have any permission in directory departments that they con't belong;  
+* The users don't have any permissions in directories departments that they don't belong;  
 <br>  
 
 ## AND THAT'S IT!!!  
